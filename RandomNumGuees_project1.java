@@ -108,7 +108,7 @@ public class RandomNumGuees_project1{
         System.out.println("Rounds Lost by sakshi   : " + (roundsPlayed - roundsWon));
         System.out.println("Final Score of sakshi   : " + totalScore);
         System.out.println("====================================");
-        System.out.println("Thank You for Playing SAKSHI JI!");
+        System.out.println("Thank You for Playing SAKSHI JIS!");
 
         sc.close(); // close the work of sacnner to take input means scanner object closing
     }
